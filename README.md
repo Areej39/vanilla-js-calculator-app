@@ -22,7 +22,7 @@ A simple and responsive calculator built with HTML, CSS, and JavaScript. It perf
 ## Project Structure
 
 ```
-calculator-app/
+vanilla-js-calculator-app/
 │
 ├── index.html
 ├── style.css
